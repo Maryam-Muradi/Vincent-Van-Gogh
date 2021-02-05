@@ -1,0 +1,9 @@
+html {
+	background-color:maroon;
+}
+body {
+	background-color: roange;
+	margin: auto;
+	max-with: 600px;
+	height: 600px
+}
